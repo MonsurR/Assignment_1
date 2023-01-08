@@ -1,0 +1,203 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+/* header styles */
+
+.header {
+    background-image: url(../Images/banner/banner2.png);
+    background-position: center;
+    width: 1600px;
+    height: 800px;
+
+}
+
+.hbody {
+
+
+    text-align: right;
+    margin-left: 840px;
+    margin-right: 200px;
+    padding-top: 200px;
+
+}
+
+.hbody h1 {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
+
+.hbody p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+}
+
+.hbody button {
+    padding: px;
+    height: 70px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: orangered;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+/* body first section styles */
+
+.failure {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-top: 130px;
+    width: 1200px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.failure div p {
+    width: 360px;
+
+}
+
+.failureTxt h1 {
+
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    width: 380px;
+
+}
+
+.failureTxt p1 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+/* body second section styles */
+.plans {
+    margin-top: 130px;
+    margin-left: 200px;
+    width: 1200px;
+    text-align: center;
+
+
+}
+
+.plansList {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.plansList h1 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.plansList p {
+    font-weight: 500;
+    font-size: 25px;
+    color: #151414;
+}
+
+/* body third section styles */
+
+.positive {
+    margin-top: 130px;
+    margin-left: 200px;
+    height: 300px;
+    width: 1200px;
+    background-image: url(../Images/gradient2.png), url(../Images/watch.png);
+    background-repeat: no-repeat;
+
+}
+
+.positivetxt {
+    padding-top: 10px;
+    padding-left: 65px;
+    width: 460px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+
+
+}
+
+.WhiteButton {
+    padding: px;
+    height: 70px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    color: orangered;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+/* footer styles */
+
+.footer {
+    margin-top: 100px;
+    width: 1600px;
+    height: 580px;
+    background-color: black;
+
+
+}
+
+.footeritems {
+    width: 1200px;
+    margin-left: 200px;
+    padding-top: 130px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footertxt {
+    width: 485px;
+    
+}
+
+.footertxt h1 {
+
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.footer p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+.ul {
+    list-style: none;
+
+}
+.subscribe{
+    width: 325px;
+    align-items: center;
+
+}
+
+.mail{
+    width: 325px;
+    height: 60px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
